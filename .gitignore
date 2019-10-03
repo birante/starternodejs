@@ -174,7 +174,12 @@ client/.serverless
 
 # IDE
 client/.idea
+.idea
+.vscode
+.vs
+.code
 
 # Service worker
 client/sw.*
+
 
